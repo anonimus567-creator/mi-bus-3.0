@@ -1,0 +1,19 @@
+body{
+	background-color: black;
+	color: red;
+}
+h1{
+    font-family: Fantasy, cursive;
+	color: #f5a4a4
+}
+h2{
+	font-family: 'Fantasy', cursive;
+
+}
+p{
+	font-family: Monospace;
+}
+img{
+	width: 200px;
+	height:300px;
+}
